@@ -1,0 +1,25 @@
+{
+  "name": "@newgoogledrive/blablablatestytest",
+  "version": "1.0.1",
+  "description": "a test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newgoogledrive/PACKAGE2.git#main"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "newgoogledrive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newgoogledrive/PACKAGE2/issues"
+  },
+  "homepage": "https://github.com/newgoogledrive/PACKAGE2/tree/main#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
