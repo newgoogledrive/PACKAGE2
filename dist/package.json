@@ -1,0 +1,31 @@
+{
+  "name": "@newgoogledrive/test2package",
+  "version": "1.0.0",
+  "description": "test.",
+  "main": "index.html",
+  "files": [
+    "index.html"
+  ],
+  "publishConfig": {
+    "@newgoogledrive:registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "testing",
+    "package",
+    "web",
+    "big test"
+  ],
+  "author": "7Locking/NewGoogleDrive",
+  "license": "MIT",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newgoogledrive/PACKAGE2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/newgoogledrive/PACKAGE2/issues"
+  },
+  "homepage": "https://github.com/newgoogledrive/PACKAGE2#readme"
+}
